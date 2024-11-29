@@ -1,0 +1,548 @@
+body{
+    font-family: Arial, sans-serif;
+}
+.komanda{
+    text-align:center;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #333;
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+    text-align:center;
+    font-size:large;
+    font-weight: bold;
+    
+}
+
+.komandas{
+    position: relative;
+}
+.miha{
+    background-color: #333; /* Цвет фона меню */
+    margin-left: 25px;
+
+    max-width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #333;
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    flex-basis: 33%;
+      
+    position: absolute;
+    top: 20px;
+
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.name1{
+    text-align:center;
+    font-size:large;
+    font-weight: bold;
+}
+
+.andrew{
+    background-color: #333; /* Цвет фона меню */
+    margin-left: 525px;
+    
+
+    max-width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #333;
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+
+    position: absolute;
+    top: 20px;
+
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.name2{
+    text-align:center;
+    font-size:large;
+    font-weight: bold;
+}
+
+.dima{
+    background-color: #333; /* Цвет фона меню */
+    margin-left: 1025px;
+    position: absolute;
+    top: 20px;
+
+    max-width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #333;
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+
+        
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+}
+.name3{
+    text-align:center;
+    font-size:large;
+    font-weight: bold;
+}
+.imgmiha{
+    width: 400px;
+    height: auto;
+}
+.imgandrew{
+    width:400px;
+    height: auto;
+}
+.imgdima{
+    width: 400px;
+    height: auto;
+}
+.text1{
+    max-width: 400px;
+    height: auto;
+    text-indent:25px;
+}
+.dann1{
+    text-align:center;
+    font-size:large;
+    font-weight: bold;
+}
+.onas{
+    text-align:center;
+    max-width: 1200px;
+    height: 1420px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #333;
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+    position: absolute;
+    margin-left: 150px;
+    text-align:center;
+    font-size:large;
+    font-weight: bold;
+}
+.img1{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: 20px;
+    position: absolute;
+}
+.img2{
+    width: 400px;
+    height: auto;
+    
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.img3{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: 570px;
+    margin-top: 80px;
+}
+.img4{
+    width: 300px;
+    height: auto;
+    position:absolute;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.img5{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: 70px;
+    margin-top: -150px;
+}
+.img6{
+    width: 450px;
+    height: auto;
+    display: block;
+    margin-left: 740px;
+    margin-top: -100px;
+}
+.img7{
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: 170px;
+    margin-top: -200px;
+}
+.proekts{
+    text-align:center;
+    max-width: 1200px;
+    height: 3999px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #333;
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+    display: block;
+    margin-top: 1500px;
+    margin-left: 150px;
+    text-align:center;
+    font-size:large;
+    font-weight: bold;
+}
+.rt1{
+    width: 600px;
+    height: auto;
+    display: block;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.rt2{
+    width: 500px;
+    height: auto;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: -300px;
+}
+.rt3{
+    width: 800px;
+    height: auto;
+    display: block;
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.nm1{
+    width: 600px;
+    height: auto;
+    display: block;
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.nm2{
+    width: 500px;
+    height: auto;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -300px;
+}
+.nm3{
+    width: 700px;
+    height: auto;
+    display: block;
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.h1{
+    width: 800px;
+    height: auto;
+    display: block;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.sl1{
+    width: 650px;
+    height: auto;
+    display: block;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.sl2{
+    width: 500px;
+    height: auto;
+    position: absolute;
+    margin-left: 85px;
+    margin-top: -325px;
+    margin-bottom: 20px;
+}
+.tg1{
+    width: 350px;
+    height: auto;
+    display: block;
+    margin-left: 250px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.tg2{
+    width: 350px;
+    height: auto;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -450px;
+}
+.five p{
+    margin-top: 50px;
+}
+.kontakt{
+    text-align:center;
+    max-width: 900px;
+    height: 450px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #333;
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+    display: block;
+    margin-top: 70px;
+    margin-left: 300px;
+    text-align:center;
+    font-size:large;
+    font-weight: bold;
+}
+.miha2{
+    text-align:left;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.nomer1{
+    font-weight: 1000;
+    color: black;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: -60px;
+
+    text-align:center;
+    max-width: 400px;
+    height: 50px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px #fffefe3b;
+    margin-bottom: 10px;
+    font-size: 16px;
+    
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.andrew2{
+    text-align:left;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.nomer2{
+    font-weight: 1000;
+    color: black;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: -60px;
+
+    text-align:center;
+    max-width: 400px;
+    height: 50px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px #fffefe3b;
+    margin-bottom: 10px;
+    font-size: 16px;
+    
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.dima2{
+    text-align:left;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.nomer3{
+    font-weight: 1000;
+    color: black;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: -60px;
+
+    text-align:center;
+    max-width: 400px;
+    height: 50px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px #fffefe3b;
+    margin-bottom: 10px;
+    font-size: 16px;
+    
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.nomer1::before{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 5px; /* Высота линии */
+    background-color: #ff0000e7; /* Цвет линии */
+    transform: scaleX(0); /* Начальное значение ширины */
+    transform-origin: right;
+    transition: transform 0.3s;
+}
+.nomer1:hover::before{
+    transform: scaleX(1); /* Увеличение ширины при наведении */
+    transform-origin: left;
+}
+.nomer2::before{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 5px; /* Высота линии */
+    background-color: #ff0000e7; /* Цвет линии */
+    transform: scaleX(0); /* Начальное значение ширины */
+    transform-origin: right;
+    transition: transform 0.3s;
+}
+.nomer2:hover::before{
+    transform: scaleX(1); /* Увеличение ширины при наведении */
+    transform-origin: left;
+}
+.nomer3::before{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 5px; /* Высота линии */
+    background-color: #ff0000e7; /* Цвет линии */
+    transform: scaleX(0); /* Начальное значение ширины */
+    transform-origin: right;
+    transition: transform 0.3s;
+}
+.nomer3:hover::before{
+    transform: scaleX(1); /* Увеличение ширины при наведении */
+    transform-origin: left;
+}
